@@ -90,7 +90,6 @@ Explore the bot’s full functionality in this detailed demo:
 2. **Free Updates**: Get all future updates at no extra cost.
 3. **Telegram Support Group**: Join our community to share strategies and tips.
 4. **Easy Setup Guide**: Step-by-step installation and usage instructions.
-5. **Demo Available**: Contact us on Telegram for a demo.
 
 ---
 
